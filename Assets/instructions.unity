@@ -392,7 +392,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Place phone vertically so your full body can be seen in the front camera.
+  m_text: 'Place phone horizontally so your full body can be seen in the front camera.
 
 
     Use your hands to hit the targets and get points!
@@ -467,7 +467,7 @@ MonoBehaviour:
   m_margin: {x: -348.34198, y: -544.6321, z: -374.66406, w: -263.38672}
   m_textInfo:
     textComponent: {fileID: 727258495}
-    characterCount: 167
+    characterCount: 169
     spriteCount: 0
     spaceCount: 33
     wordCount: 32
@@ -688,7 +688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -27.265808, y: -362.49255}
+  m_AnchoredPosition: {x: -27, y: -362.49255}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1058839892
